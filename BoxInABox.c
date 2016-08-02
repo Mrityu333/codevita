@@ -44,11 +44,9 @@ ____________________________________________
 
 */
 
-
-
 #include<stdio.h>
 #include<conio.h>
-#include<math.h>
+
 void main()
 {
 	int i,j,k,p,counter=0,flag,sum,abc,asa;
